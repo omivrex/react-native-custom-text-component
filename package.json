@@ -1,0 +1,11 @@
+{
+  "name": "react-native-custom-text-component",
+  "version": "1.0.0",
+  "description": "a custom text component for reactnatve texts and inputs that mimics that of the web, ranging from h1 to h3 and even other plain text styles ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rex Omiv",
+  "license": "ISC"
+}
